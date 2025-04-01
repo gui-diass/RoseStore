@@ -1,7 +1,10 @@
+import Form from "./components/form/Form.jsx"
+
 function App() {
 
   return (
     <>
+    <Form/>
     </>
   )
 }
